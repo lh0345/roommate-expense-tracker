@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Roommate Expense Tracker</string>
+
+    <!-- Strings for Main Activity -->
+    <string name="main_activity_title">Expense Tracker</string>
+    <string name="add_expense_button_text">Add Expense</string>
+
+    <!-- Strings for Add com.example.roommateexpensetracker.Expense Activity -->
+    <string name="add_expense_activity_title">Add Expense</string>
+    <string name="expense_name_hint">Expense Name</string>
+    <string name="expense_amount_hint">Expense Amount</string>
+    <string name="save_button_text">Save</string>
+    <string name="cancel_button_text">Cancel</string>
+
+    <!-- Strings for RecyclerView Item -->
+    <string name="item_expense_name">Expense Name</string>
+    <string name="item_expense_amount">Expense Amount</string>
+
+    <!-- Strings for Error Messages -->
+    <string name="error_empty_name">Expense name cannot be empty</string>
+    <string name="error_empty_amount">Expense amount cannot be empty</string>
+    <string name="error_invalid_amount">Invalid amount entered</string>
+
+    <!-- Strings for Add com.example.roommateexpensetracker.Expense Fragment -->
+    <string name="expense_name">Expense Name</string>
+    <string name="expense_amount">Expense Amount</string>
+</resources>
